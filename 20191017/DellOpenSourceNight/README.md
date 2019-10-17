@@ -8,5 +8,4 @@ How would you explain what is open source to your friends?
 
 - Its an Ocean!
 
-- Its eating the world
-
+- It is good
